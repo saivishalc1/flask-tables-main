@@ -1,9 +1,5 @@
-# flask-tables
-Beautiful interactive tables in your Flask templates
+Photo of the table working:
 
-![Table Example](table.png)
+<img width="1680" alt="Screen Shot 2021-12-11 at 7 28 24 PM" src="https://user-images.githubusercontent.com/72717890/145696381-7a5b89be-c313-45f2-afd9-ec9477b71691.png">
 
-## Resources
 
-- Video demonstration: [Go to YouTube video](https://www.youtube.com/watch?v=IsuhCAptNbg).
-- Learn how to use this code: [Go to blog post](https://blog.miguelgrinberg.com/post/beautiful-interactive-tables-for-your-flask-templates).
